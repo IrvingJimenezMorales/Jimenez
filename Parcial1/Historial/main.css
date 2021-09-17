@@ -1,0 +1,38 @@
+
+body   {
+background: url(https://llano.tecnm.mx/images/Tec-encabezado-2.png) repeat-y;
+width: 100%;
+ text-align: center;
+
+} 
+
+
+.BORDER{
+font-size: 16px;
+
+}
+
+.Datos-Alumno{
+    width: 500px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.datatable-container{
+background-color: #2a3338;
+border-radius: 3px;
+color: white;
+width: 600px;
+margin: 0 auto;
+font-size: 14px;
+
+
+}
+.datatable-container tbody tr:nth-child(even){
+background-color: rgb(61, 68, 73);
+
+}
+
+.datatable-container tbody tr:hover{
+background-color:blue;
+}
