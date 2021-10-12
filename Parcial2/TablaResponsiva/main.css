@@ -1,14 +1,14 @@
-        h1{
+ h1{
                 color: black;
                 width: 1300px;
                 text-align: center;
-        }
-        h2{
+ }
+ h2{
                 color: black;
                 width: 1300px;
                 text-align: center;
         
-        }
+ }
   body {
     background: url(https://llano.tecnm.mx/images/Tec-encabezado-2.png) repeat-y;
       width: 100%;
