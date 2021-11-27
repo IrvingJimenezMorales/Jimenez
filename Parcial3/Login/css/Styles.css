@@ -1,0 +1,18 @@
+body{
+    height: 800px;
+    /* background: url(https://simpsonitos.files.wordpress.com/2013/11/matadero5.jpg); */
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size: 20rem;
+    background-color: brown;
+    } 
+
+.form-row{
+
+      color: white;
+    }
+
+.form-group{
+    color: white;
+}
