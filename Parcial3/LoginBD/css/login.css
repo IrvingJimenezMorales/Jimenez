@@ -1,0 +1,45 @@
+body {
+   
+    background-image: url("https://mexico.internationaltrucks.com/hubfs/site/mobile/producto/banner-home-1.png");
+    background-repeat:no-repeat; 
+    background-position-x:center;
+    background-position-y:300px;
+    background-color: #98f6a9;
+
+}
+
+.card{
+    height: 200px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+}
+.card-body{
+    height: 200x;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    margin: 0 auto;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+.card-header h3{
+    color: white;
+    
+}
+.login_btn{
+        color: black;
+        background-color: #FFC312;
+        width: 100px;
+}
+
+.login_btn:hover{
+        color: black;
+        background-color: white;
+}
+
+    
