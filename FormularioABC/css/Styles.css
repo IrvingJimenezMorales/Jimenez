@@ -1,0 +1,26 @@
+body{
+    height: 800px;
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size: 20rem;
+    background-color: rgb(46, 175, 164);
+    } 
+
+.form-row{
+
+      color: white
+    }
+
+.form-group{
+    color: white;
+}
+#CerrarSesion{
+    color: black;
+    float: right;
+}
+.btn{
+    color:black;
+    background-color: white;
+}
+
